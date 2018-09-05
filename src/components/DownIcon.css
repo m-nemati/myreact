@@ -1,0 +1,12 @@
+.down-div{
+    display: flex;
+    flex-direction: "row";
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -60px;
+    transform: translateY(-80px);
+  }
+
+  .down-icon{
+    max-width: 40px;
+  }

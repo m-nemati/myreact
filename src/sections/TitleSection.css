@@ -1,0 +1,20 @@
+.icons-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon{
+    margin: 10px;
+  }
+
+  .wnavigate{
+    position: fixed;
+  }
+  
+  .paint{
+    position: fixed;
+    top:10px;
+    right: 20px;
+  }

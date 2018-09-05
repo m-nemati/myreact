@@ -1,0 +1,16 @@
+
+.third{
+    background-color: #a030e0;
+  }
+  
+  .cards-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.toTop{
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+}

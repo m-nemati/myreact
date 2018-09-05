@@ -1,0 +1,25 @@
+.navigate{
+   
+    display: inline-block;
+    
+}
+
+.navigate ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.navigate ul li a{
+    text-decoration: none;
+    color: white; 
+}
+
+.navigate ul li a:visited{
+    color: white;
+}
+.navigate ul li a:hover{
+    color: red;
+}

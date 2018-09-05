@@ -1,0 +1,85 @@
+{
+    "title": "Hello, I am M.Nemati!",
+    "subtitle": "Full Stack Dev | Programmer",
+    "links": {
+        "github": "https://github.com/m-nemati",
+        "twitter": "https://twitter.com/m_nemati2002",
+        "telegram": "https://t.me/m_nemati2002",
+        "instagram": "https://instagram.com/m.nemati1396"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                   "type" : "p",
+                   "content": "I like Programming."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                   "type" : "card",
+                   "content": {
+                       "image": "images/html.png",
+                       "title": "HTML"
+                   }
+                },
+                {
+                    "type" : "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                 },
+                 {
+                    "type" : "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "JavaScript"
+                    }
+                 },
+                 {
+                    "type" : "card",
+                    "content": {
+                        "image": "images/bootstrap.png",
+                        "title": "Bootstrap"
+                    }
+                 },
+                 {
+                    "type" : "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                 },
+                 {
+                    "type" : "card",
+                    "content": {
+                        "image": "images/angular.png",
+                        "title": "Angular"
+                    }
+                 }
+            ]
+        }
+    ],
+    "icons":{
+        "down": "images/down.png"
+    },
+
+    "topicon":{
+        "top": "images/up.png"
+    },
+
+    "painticon":{
+        "paint":"images/paint.png"
+    },
+
+    "navigation":[
+        {"llink":"About"},
+        {"llink":"Skills"}
+    ]
+    
+}
